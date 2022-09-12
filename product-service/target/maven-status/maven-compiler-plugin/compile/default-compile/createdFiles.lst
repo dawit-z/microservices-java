@@ -1,0 +1,10 @@
+com/dawit/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/dawit/productservice/repository/ProductRepository.class
+com/dawit/productservice/controller/ProductController.class
+com/dawit/productservice/dto/ProductRequest.class
+com/dawit/productservice/model/Product$ProductBuilder.class
+com/dawit/productservice/service/ProductService.class
+com/dawit/productservice/model/Product.class
+com/dawit/productservice/ProductServiceApplication.class
+com/dawit/productservice/dto/ProductResponse.class
+com/dawit/productservice/dto/ProductRequest$ProductRequestBuilder.class

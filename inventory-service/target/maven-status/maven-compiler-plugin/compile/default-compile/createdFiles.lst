@@ -1,0 +1,5 @@
+com/dawit/inventoryservice/repository/InventoryRepository.class
+com/dawit/inventoryservice/model/Inventory.class
+com/dawit/inventoryservice/controller/InventoryController.class
+com/dawit/inventoryservice/InventoryServiceApplication.class
+com/dawit/inventoryservice/service/InventoryService.class

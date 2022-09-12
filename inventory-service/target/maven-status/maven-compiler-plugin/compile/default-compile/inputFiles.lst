@@ -1,0 +1,5 @@
+/Users/dzewelday/workspace/microservices-new/inventory-service/src/main/java/com/dawit/inventoryservice/InventoryServiceApplication.java
+/Users/dzewelday/workspace/microservices-new/inventory-service/src/main/java/com/dawit/inventoryservice/model/Inventory.java
+/Users/dzewelday/workspace/microservices-new/inventory-service/src/main/java/com/dawit/inventoryservice/repository/InventoryRepository.java
+/Users/dzewelday/workspace/microservices-new/inventory-service/src/main/java/com/dawit/inventoryservice/service/InventoryService.java
+/Users/dzewelday/workspace/microservices-new/inventory-service/src/main/java/com/dawit/inventoryservice/controller/InventoryController.java

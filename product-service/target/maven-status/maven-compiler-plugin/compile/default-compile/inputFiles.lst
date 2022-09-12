@@ -1,0 +1,7 @@
+/Users/dzewelday/workspace/microservices-new/product-service/src/main/java/com/dawit/productservice/repository/ProductRepository.java
+/Users/dzewelday/workspace/microservices-new/product-service/src/main/java/com/dawit/productservice/controller/ProductController.java
+/Users/dzewelday/workspace/microservices-new/product-service/src/main/java/com/dawit/productservice/service/ProductService.java
+/Users/dzewelday/workspace/microservices-new/product-service/src/main/java/com/dawit/productservice/dto/ProductRequest.java
+/Users/dzewelday/workspace/microservices-new/product-service/src/main/java/com/dawit/productservice/ProductServiceApplication.java
+/Users/dzewelday/workspace/microservices-new/product-service/src/main/java/com/dawit/productservice/dto/ProductResponse.java
+/Users/dzewelday/workspace/microservices-new/product-service/src/main/java/com/dawit/productservice/model/Product.java
